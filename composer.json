@@ -1,0 +1,12 @@
+{
+    "name": "wojciech/testslim",
+    "authors": [
+        {
+            "name": "Wojciech Frącz",
+            "email": "fraczwojciech@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.11"
+    }
+}
