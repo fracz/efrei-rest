@@ -1,13 +1,12 @@
 {
-    "name": "wojciech/testslim",
-    "authors": [
-        {
-            "name": "Wojciech Frącz",
-            "email": "fraczwojciech@gmail.com"
-        }
-    ],
-    "require": {
-        "ext-pdo_sqlite": "*",
-        "slim/slim": "^3.11"
+  "name": "wojciech/testslim",
+  "authors": [
+    {
+      "name": "Wojciech Frącz",
+      "email": "fraczwojciech@gmail.com"
     }
+  ],
+  "require": {
+    "slim/slim": "^3.11"
+  }
 }
